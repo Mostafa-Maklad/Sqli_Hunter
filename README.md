@@ -29,8 +29,8 @@ Runs after Phase 1. In `full` mode it always executes regardless of Phase 1 resu
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/sqli-hunter.git
-cd sqli-hunter
+git clone https://github.com/Mostafa-Maklad/Sqli_Hunter.git
+cd Sqli_Hunter
 
 # Install Python dependency
 pip install requests
