@@ -23,6 +23,7 @@ Every phase prints what it sent, what came back, and why it decided. Nothing is 
 
 Runs after Phase 1. In `full` mode it always executes regardless of Phase 1 results. If Phase 1 confirmed a vulnerability on a specific parameter, Phase 2 targets that parameter directly and passes the confirmed technique as a hint so the tool focuses its effort. Basic and advanced levels run sequentially on the same tool to avoid session conflicts.
 
+![dash](assets/dash.png)
 ---
 
 ## Installation
